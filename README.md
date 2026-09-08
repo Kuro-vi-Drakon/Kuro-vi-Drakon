@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi, I'm Your Name Here!</h1>
+<h1>Hi, I'm Joel</h1>
 <h3>Full-Stack Developer &nbsp;•&nbsp; Front-End Developer &nbsp;•&nbsp; Back-End Developer &nbsp;•&nbsp; Cloud Developer</h3>
 <p>
 Building web applications from front to back — HTML, CSS, JavaScript, React, Python, SQL, and Cloud.
@@ -10,13 +10,13 @@ Building web applications from front to back — HTML, CSS, JavaScript, React, P
 <a href="#">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="YourLinkedInProfileHere">
+<a href="https://www.linkedin.com/in/joel-bragg-6a320540b/ ">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:YourEmailHere">
+<a href=" joelbragg9@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="YourGitHubProfileHere">
+<a href="https://github.com/Kuro-vi-Drakon">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 </div>
@@ -28,7 +28,7 @@ Building web applications from front to back — HTML, CSS, JavaScript, React, P
     <h3>My primary interests include:</h3>
     <ul>
       <li>Front-End Development (HTML, CSS, JavaScript, React.js)</li>
-      <li>Back-End Development (Python, SQL, Node.js)</li>
+      <li>Back-End Development (Python, C#, SQL, Node.js)</li>
       <li>Cloud Computing (AWS, Microsoft Azure)</li>
       <li>Version Control (Git & GitHub)</li>
       <li>Responsive & Accessible Web Design</li>
