@@ -135,7 +135,7 @@ Building web applications from front to back — HTML, CSS, JavaScript, React, P
       </p>
       <b>Stack:</b> C# · XAML
       <br/>
-      <a href="Tafl">View Project →</a>
+      <a href="https://www.github.com/Kuro-vi-Drakon/Tafl">View Project →</a>
     </td>
   </tr>
   <tr>
