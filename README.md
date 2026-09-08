@@ -120,7 +120,7 @@ Building web applications from front to back — HTML, CSS, JavaScript, React, P
 <table>
   <tr>
     <td width="50%">
-      <h3>Recipie Website</h3>
+      <h3>Recipe Website</h3>
       <p>
       - - -
       </p>
@@ -136,26 +136,6 @@ Building web applications from front to back — HTML, CSS, JavaScript, React, P
       <b>Stack:</b> C# · XAML
       <br/>
       <a href="https://www.github.com/Kuro-vi-Drakon/Tafl">View Project →</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>-</h3>
-      <p>
-      - - -
-      </p>
-      <b>Stack:</b> -
-      <br/>
-      <a href="#">Play Game →</a>
-    </td>
-    <td>
-      <h3>-</h3>
-      <p>
-      - - -
-      </p>
-      <b>Stack:</b> -
-      <br/>
-      <a href="#">View Project →</a>
     </td>
   </tr>
 </table>
