@@ -120,48 +120,48 @@ Building web applications from front to back — HTML, CSS, JavaScript, React, P
 <table>
   <tr>
     <td width="50%">
-      <h3>Portfolio Website</h3>
+      <h3>Recipie Website</h3>
       <p>
-      A responsive personal portfolio website showcasing skills, projects, and experience — built at Level 2 of the diploma using HTML, Tailwind CSS, SASS, and JavaScript.
+      - - -
       </p>
-      <b>Stack:</b> HTML · Tailwind CSS · SASS · JavaScript
+      <b>Stack:</b> HTML · Tailwind CSS · SQL · JavaScript
       <br/>
       <a href="#">View Project →</a>
     </td>
     <td width="50%">
-      <h3>React.js Web Application</h3>
+      <h3>Viking Chess</h3>
       <p>
-      An interactive web app built with React.js, demonstrating component architecture, state management, and dynamic rendering.
+      Chess like game "Tafl".
       </p>
-      <b>Stack:</b> HTML · Tailwind CSS · JavaScript · React.js
+      <b>Stack:</b> C# · XAML
       <br/>
-      <a href="#">View Project →</a>
+      <a href="github.com/Kuro-vi-Drakon/Tafl">View Project →</a>
     </td>
   </tr>
   <tr>
     <td>
-      <h3>JavaScript Browser Game</h3>
+      <!--<h3>JavaScript Browser Game</h3>
       <p>
       A 2D browser game using the Canvas API — featuring character control, animation, collision detection, sound, and interactive objects.
       </p>
       <b>Stack:</b> HTML · JavaScript · Canvas API
       <br/>
-      <a href="#">Play Game →</a>
+      <a href="#">Play Game →</a>-->
     </td>
     <td>
-      <h3>Python & SQL Data App</h3>
+      <!--<h3>Python & SQL Data App</h3>
       <p>
       A data-driven back-end application using Python and SQL — structured queries, database management, and meaningful output.
       </p>
       <b>Stack:</b> Python · SQL · GitHub
       <br/>
-      <a href="#">View Project →</a>
+      <a href="#">View Project →</a>-->
     </td>
   </tr>
 </table>
 <h2>Currently Learning</h2>
 <table>
-  <tr>
+  <!--<tr>
     <td>
       <ul>
         <li>React.js — Advanced patterns & hooks</li>
@@ -183,7 +183,7 @@ Building web applications from front to back — HTML, CSS, JavaScript, React, P
         <li>Deployment & cloud hosting</li>
       </ul>
     </td>
-  </tr>
+  </tr>-->
 </table>
 <h2>GitHub Analytics</h2>
 <div align="center">
