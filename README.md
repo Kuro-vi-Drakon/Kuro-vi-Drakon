@@ -135,27 +135,27 @@ Building web applications from front to back — HTML, CSS, JavaScript, React, P
       </p>
       <b>Stack:</b> C# · XAML
       <br/>
-      <a href="github.com/Kuro-vi-Drakon/Tafl">View Project →</a>
+      <a href="Tafl">View Project →</a>
     </td>
   </tr>
   <tr>
     <td>
-      <!--<h3>JavaScript Browser Game</h3>
+      <h3>-</h3>
       <p>
-      A 2D browser game using the Canvas API — featuring character control, animation, collision detection, sound, and interactive objects.
+      - - -
       </p>
-      <b>Stack:</b> HTML · JavaScript · Canvas API
+      <b>Stack:</b> -
       <br/>
-      <a href="#">Play Game →</a>-->
+      <a href="#">Play Game →</a>
     </td>
     <td>
-      <!--<h3>Python & SQL Data App</h3>
+      <h3>-</h3>
       <p>
-      A data-driven back-end application using Python and SQL — structured queries, database management, and meaningful output.
+      - - -
       </p>
-      <b>Stack:</b> Python · SQL · GitHub
+      <b>Stack:</b> -
       <br/>
-      <a href="#">View Project →</a>-->
+      <a href="#">View Project →</a>
     </td>
   </tr>
 </table>
